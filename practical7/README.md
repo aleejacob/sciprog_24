@@ -13,12 +13,12 @@ To compile the program, use the following command:
 
 * ./out
 
-Enter the required polynomial order
-3
-1.0000000000000000
-0.5000000000000000
-0.1666666666666667
- e is estimated as 2.6666666667, with difference -5.161516e-02
+Enter the required polynomial order <br>
+3 <br>
+1.0000000000000000 <br>
+0.5000000000000000 <br>
+0.1666666666666667 <br>
+ e is estimated as 2.6666666667, with difference -5.161516e-02 <br>
 
 * ./out1
 
