@@ -3,16 +3,16 @@ Git Assignment Project
 Name: Aleena Jacob
 Student Number: 24210559
 
-Introduction
+# Introduction
 
 This is my repo for 24/25 Scientific Programming Concepts
 
-#Git Assignment Project
+# Git Assignment Project 
 
 * Name: Aleena Jacob
 * Student Number: 24210559
 
-##Introduction
+# Introduction 
 
 This is my repo for 24/25 Scientific Programming Concepts
 
