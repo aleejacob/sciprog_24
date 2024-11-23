@@ -24,8 +24,8 @@ TanArr[9] = 1.000000 <br>
 TanArr[10] = 1.191754 <br>
 TanArr[11] = 1.428148 
 
-Initial area (sum at x(0) and x(12))=0.000000
-The value of the sum after the loop is: 14.197204
+Initial area (sum at x(0) and x(12))=0.000000 <br>
+The value of the sum after the loop is: 14.197204<br>
 
-Trapezoidal result is: 0.619470
+Trapezoidal result is: 0.619470<br>
 Real result is: 0.693147
