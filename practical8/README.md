@@ -13,9 +13,9 @@ To compile the program, use the following command:
 
 * ./gcdC
 
-Please enter two positive two positive integers:
-12 10
-IterativeGCD(12 10)=2
+Please enter two positive two positive integers: <br>
+12 10 <br>
+IterativeGCD(12 10)=2 <br>
 RecursiveGCD(12 10)=2
 
 * ./gcdrandomC
