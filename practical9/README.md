@@ -12,10 +12,10 @@ To compile the program, use the following command:
 
 * ./out
 
-Enter file name: magic_square.txt
-No. lines, 3
-This is magic
+Enter file name: magic_square.txt <br>
+No. lines, 3 <br>
+This is magic <br>
 
-Enter file name: not_magic_square.txt
-No. lines, 3
-This is not magic
+Enter file name: not_magic_square.txt <br>
+No. lines, 3 <br>
+This is not magic <br>
